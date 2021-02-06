@@ -183,6 +183,11 @@ p {
 .main-wrapper .section {
   margin-bottom: 60px;
 }
+
+.main-wrapper .language-section .item {
+  margin-bottom: 30px;
+}
+
 .main-wrapper .education-section .item {
   margin-bottom: 30px;
 }
